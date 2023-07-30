@@ -16,7 +16,11 @@ The outputs of ORDERS, SUPPLIERS and INVOICES have been attached in excel format
 
 ## Question 4
 
+The Stored Procedure creation scripts has been attached in the file Question_4_script.sql
+Once executed, it can be run by the following command: "EXEC [dbo].[ORDERS_SUMMARY]"
 
+<img width="731" alt="image" src="https://github.com/Hewish8/MCB_SQL_Assessment_/assets/65027977/9c0326fe-b2f1-482a-bdca-ebb4f6b429af">
 
+The outputs have been attached in excel format as Q4_Orders_Summary
 
 
